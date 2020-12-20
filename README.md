@@ -1,3 +1,4 @@
-# stepik - auto-tests-course
+# Stepik - auto-tests course
 Example homework scripts for automation
+
 https://stepik.org/course/575
